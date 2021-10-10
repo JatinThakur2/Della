@@ -19,3 +19,7 @@ Furthermore, a creation date is displayed and for this assignment alone, it is s
 new action item is created and added to the set of action items.) When the state of an Action Item changes, a red warning is displayed at the bottom of the Action Item screen informing the user that the Action Item has been altered but not yet been saved.
 Pressing the “Update” button will save the date and reset the warning. Should the user direct Della to another screen while the warning is shown, another warning dialog pops up telling the user that proceeding with these unsaved changes to the action item will result in the loss of the
 data. It then gives the user a choice of continuing to the new screen or returning to update the action item.
+
+## Images:
+
+<img src="https://github.com/JatinThakur2/Della/blob/master/images/Capture.PNG?raw=true" width="400" alt="accessibility text"><img src="https://github.com/JatinThakur2/Della/blob/master/images/Capture3.PNG?raw=true" width="440" alt="accessibility text">

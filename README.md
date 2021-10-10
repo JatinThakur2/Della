@@ -22,4 +22,4 @@ data. It then gives the user a choice of continuing to the new screen or returni
 
 ## Images:
 
-<img src="https://github.com/JatinThakur2/Della/blob/master/images/Capture.PNG?raw=true" width="400" alt="accessibility text"><img src="https://github.com/JatinThakur2/Della/blob/master/images/Capture3.PNG?raw=true" width="440" alt="accessibility text">
+<img src="https://github.com/JatinThakur2/Della/blob/master/images/Capture.PNG?raw=true" width="400" alt="accessibility text"><img src="https://github.com/JatinThakur2/Della/blob/master/images/Capture3.PNG?raw=true" width="400" alt="accessibility text">

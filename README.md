@@ -1,4 +1,6 @@
 # Della
+This Desktop app allow user to manage projects and teams for the projects, also allow user to sign projects and roles and time period for the project needed to be done.
+
 Della allows the user to navigate through four labeled screens named:
 - Console
 - Action Items

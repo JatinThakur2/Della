@@ -5,8 +5,7 @@ Della allows the user to navigate through four labeled screens named:
 - Members
 - Teams
 
-The application also provides four Navigation buttons that take you from one screen to another as well as a Quit button that allows the user to exit the entire application. In addition to the navigation and the “Quit” buttons, the Action Items screen (see Figure 00.2,
-below) provides fields that supplies the Della user. 
+The application also provides four Navigation buttons that take you from one screen to another as well as a Quit button that allows the user to exit the entire application. In addition to the navigation and the “Quit” buttons, the Action Items screen provides fields that supplies the Della user. 
 
 **The following Action Item information:**
 - Name
